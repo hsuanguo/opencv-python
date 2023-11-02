@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: opencv-python
+Version: {version}
+Summary: opencv python package
+Home-page: https://github.com/hsuanguo/opencv-python
+Author: hsuan.guo
+Author-email: hsuan.guo@gmail.com
+License: UNKNOWN
+Project-URL: https://github.com/hsuanguo/opencv-python
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: {py_version}
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+Pre-built OpenCV packages from Jetpack.
